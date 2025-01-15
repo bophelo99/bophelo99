@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<img src="https://github.com/bophelo99/bophelo99/blob/master/linkedin_banner.png" />
+<img src="https://github.com/bophelo99/bophelo99/blob/main/linkedin_banner.png" />
 
 <h1>Hello, and welcome to my Profile, I am <a href="https://bophelo99.github.io/">Bophilo (Life_)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
-<img align='right' src="https://github.com/bophelo99/bophelo99/blob/master/my_image.jpeg" width="230" />
+<img align='right' src="https://github.com/bophelo99/bophelo99/blob/main/my_image.jpeg" width="230" />
 
 <a href="https://www.linkedin.com/
 
