@@ -5,16 +5,13 @@
 <h1>Hello, and welcome to my Profile, I am <a href="https://bophelo99.github.io/">Bophilo (Life_)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 <img align='right' src="https://github.com/bophelo99/bophelo99/blob/main/my_image.jpeg" width="230" />
 
-<a href="https://www.linkedin.com/
-
-
-in/charles-ntsemi-5713062b4/"><img src="https://github.com/bophelo99/bophelo99/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="https://www.youtube.com/@codezero99"><img src="https://github.com/bophelo99/bophelo99/blob/master/logos/youtube-logo.png" width="40" /></a>
-<a href="https://github.com/bophelo99"><img src="https://github.com/bophelo99/bophelo99/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/BopheloNtsemi/"><img src="https://github.com/bophelo99/bophelo99/blob/master/logos/facebook.png" width="40" /></a>
-<a href="ntsemibophilo@gmail.com"><img src="https://github.com/bophelo99/bophelo99/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://x.com/Bvby_Lyf"><img src="https://github.com/bophelo99/bophelo99/blob/master/logos/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/bvby_lyf/"><img src="https://github.com/bophelo99/bophelo99/blob/master/logos/instagram.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/charles-ntsemi-5713062b4/"><img src="https://github.com/bophelo99/bophelo99/blob/main/logos/linkedin.png" width="40" /></a>
+<a href="https://www.youtube.com/@codezero99"><img src="https://github.com/bophelo99/bophelo99/blob/main/logos/youtube-logo.png" width="40" /></a>
+<a href="https://github.com/bophelo99"><img src="https://github.com/bophelo99/bophelo99/blob/main/logos/github-logo.png" width="40" /></a>
+<a href="https://www.facebook.com/BopheloNtsemi/"><img src="https://github.com/bophelo99/bophelo99/blob/main/logos/facebook.png" width="40" /></a>
+<a href="ntsemibophilo@gmail.com"><img src="https://github.com/bophelo99/bophelo99/blob/main/logos/google-plus.png" width="40" /></a>
+<a href="https://x.com/Bvby_Lyf"><img src="https://github.com/bophelo99/bophelo99/blob/main/logos/twitter.png" width="40" /></a>
+<a href="https://www.instagram.com/bvby_lyf/"><img src="https://github.com/bophelo99/bophelo99/blob/main/logos/instagram.png" width="40" /></a>
 
 <h3>What I do? 👨‍💻</h3>
 <details>
@@ -59,7 +56,7 @@ in/charles-ntsemi-5713062b4/"><img src="https://github.com/bophelo99/bophelo99/b
 <details>
 <summary>What do you do other than building AI systems? 💁‍♂️</summary>
   <ul>
-    <li>I leanrn and design, build and deploy websites. Whenever I am free, I am used to create designs in Flutter.</li>
+    <li>I leanrn and design, build and deploy websites. Currently learning to design webpage using Flutter.</li>
   </ul>
 </details>
 
